@@ -1,0 +1,36 @@
+{
+    "name": "Ponzi Punkz #3.1",
+    "symbol": "",
+    "description": "Group of Ponzi Punkz punking around the solana ecosystem",
+    "seller_fee_basis_points": 1000,
+    "image": "image.png",
+    "attributes": [
+      {
+        "trait_type": "Round",
+        "value": "Three"
+      }
+    ],
+    "collection": {
+       "name": "Ponzi Punkz",
+       "family": "Ponzi Punkz"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "7jz1nK3YCXWqhHiFSkLrymCUpQWUFQwuUn7vmYvsXhXb",
+          "share": 50
+        },
+        {
+          "address": "D7LXrac46qFdF36X624x37cG1yTnvLKUdtNVB2Nw3otw",
+          "share": 50
+        }
+      ]
+    }
+  }
